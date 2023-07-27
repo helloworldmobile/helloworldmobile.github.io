@@ -7,7 +7,9 @@
         "namespace": "android_app",
         "package_name": "com.shafayat.helloworld",
         "sha256_cert_fingerprints": [
-          "10:BA:FC:22:1A:63:95:2A:BB:DC:8A:54:D9:EF:9D:FE:D3:43:99:6E:68:A1:2E:96:42:5E:7F:34:F1:3F:8C:D7"
+          "10:BA:FC:22:1A:63:95:2A:BB:DC:8A:54:D9:EF:9D:FE:D3:43:99:6E:68:A1:2E:96:42:5E:7F:34:F1:3F:8C:D7",
+          "86:EA:5E:28:80:05:DF:C6:69:99:F2:AF:82:DB:6A:8E:B8:31:FC:36:20:7F:E8:35:F0:2C:11:4B:63:4C:16:A7",
+          "1A:B3:05:C7:01:F9:C5:4E:0D:4A:B3:AB:CE:AB:17:86:1E:1F:8B:55:9C:E1:A7:41:4A:CA:32:15:31:A3:7A:02"
         ]
       }
     }
