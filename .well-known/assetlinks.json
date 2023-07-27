@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.shafayat.helloworld",
+        "sha256_cert_fingerprints": [
+          "10:BA:FC:22:1A:63:95:2A:BB:DC:8A:54:D9:EF:9D:FE:D3:43:99:6E:68:A1:2E:96:42:5E:7F:34:F1:3F:8C:D7"
+        ]
+      }
+    }
+  ]
